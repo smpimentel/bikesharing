@@ -1,7 +1,7 @@
-# Bikesharing
+# Bikesharing Visulization with Tableau
 
 ## Overview
-The purpose of this project was to analyze bike sharing data that we got from the Citi Bike Website (link below). the data is of the bike sharing in New York City and our hope was to gain a better understanding of the bike sharing business and if it could be profitable in Iowa.
+The purpose of this project was to analyze bike sharing data that we got from the Citi Bike Website (link below). The data presented below was collected from the Citi Bike Sharing website and is collected from the New York City area. The hope was to gain a better understanding of the bike sharing success and the demographic that use it the most, and if it is a business that could be profitable in Iowa.
 ### Data Link
 https://ride.citibikenyc.com/system-data
 ### Tableau Link to our Findings
