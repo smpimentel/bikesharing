@@ -7,4 +7,4 @@ https://ride.citibikenyc.com/system-data
 ### Tableau Link to our Findings
 https://public.tableau.com/app/profile/stephen.pimentel/viz/BikeSharingModule_16679575646450/NYCCitiBikeRentals?publish=yes
 ## Summary
-Obviously the bike sharing program in New York is a hit. It is the perfect combination of public transport to near by location and a lowering your carbon foot print. The majority of Subscribers are male and seem to use it between 6-9am and 4-6pm for what I assume would be commuting to and from work. 
+Obviously, the bike sharing program in New York is a hit. It is the perfect combination of public transport to nearby locations and lowering one's carbon footprint. The majority of subscribers are male and seem to use it between 6-9am and 4-6pm, presumably for commuting to and from work.
